@@ -1,0 +1,21 @@
+{
+    "name": "thecoderguru-tolopea",
+    "displayName": "thecoderguru-tolopea",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TheCoderGuru Tolopea",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TheCoderGuru Tolopea-color-theme.json"
+            }
+        ]
+    }
+}
