@@ -1,21 +1,37 @@
 {
-    "name": "thecoderguru-tolopea",
-    "displayName": "thecoderguru-tolopea",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.68.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "TheCoderGuru Tolopea",
-                "uiTheme": "vs-dark",
-                "path": "./themes/TheCoderGuru Tolopea-color-theme.json"
-            }
-        ]
-    }
+  "name": "thecoderguru-tolopea",
+  "displayName": "thecoderguru-tolopea",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "ShashreeSamuel",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "TheCoderGuru Tolopea",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TheCoderGuru Tolopea-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "url": "https://github.com/TheCoderGuru/thecoderguru-tolopea"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "thecoderguru",
+    "thecoder guru",
+    "coderguru",
+    "TheCoderGuru",
+    "thecoderguru-tolopea",
+    "thecoderguru_tolopea",
+    "tolopea",
+    "Tolopea"
+  ]
 }
