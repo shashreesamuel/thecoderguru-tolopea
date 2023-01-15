@@ -3,6 +3,7 @@
   "displayName": "thecoderguru-tolopea",
   "description": "",
   "version": "0.0.1",
+  "icon": "plugin_icon.png",
   "publisher": "ShashreeSamuel",
   "engines": {
     "vscode": "^1.68.0"

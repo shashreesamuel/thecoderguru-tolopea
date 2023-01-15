@@ -1,19 +1,23 @@
 {
 	"name": "TheCoderGuru Tolopea",
 	"colors": {
-		"editor.background": "#292643",
-		"activityBar.background": "#1e1c31",
-		"activityBar.foreground": "#9e94fa",
-		"sideBar.background": "#23213a",
-		"statusBar.background": "#222038",
-		"editor.foreground": "#eeffff",
-		"editorGroupHeader.tabsBackground": "#191629",
-		"titleBar.activeBackground": "#201e35",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb",
-		"editorLineNumber.foreground" : "#c2bdbd",
-		"minimap.background": "#221f38"
-	},
+    "editor.background": "#292643",
+    "activityBar.background": "#1e1c31",
+    "activityBar.foreground": "#9e94fa",
+    "sideBar.background": "#23213a",
+	"menu.background": "#343155",
+    "statusBar.background": "#222038",
+    "statusBar.noFolderBackground": "#343155",
+    "editor.foreground": "#eeffff",
+    "editorGroupHeader.tabsBackground": "#191629",
+	"tab.inactiveBackground": "#222038",
+    "titleBar.activeBackground": "#201e35",
+	"menu.selectionBackground": "#222038",
+    "activityBarBadge.background": "#343155",
+    "sideBarTitle.foreground": "#bbbbbb",
+    "editorLineNumber.foreground": "#c2bdbd",
+    "minimap.background": "#221f38"
+  },
 	"tokenColors": [
 		{
 			"name": "Comment",
